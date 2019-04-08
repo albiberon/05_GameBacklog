@@ -52,6 +52,7 @@ public class AddEditActivity extends AppCompatActivity {
         mGameStatus = findViewById(R.id.editStatus_addedit);
         mGameBacklogs = new ArrayList<>();
 
+
         addItemsOnSpinner();
         Toolbar toolbar = findViewById(R.id.toolbar2);
         setSupportActionBar(toolbar);

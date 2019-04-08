@@ -22,7 +22,7 @@
             android:ellipsize="end"
             android:fontFamily="sans-serif"
             android:maxLines="1"
-            android:text="Title"
+            android:text="@string/title"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textStyle="italic" />
 
@@ -33,7 +33,7 @@
             android:layout_below="@id/text_view_title"
             android:ellipsize="end"
             android:maxLines="1"
-            android:text="Platform"
+            android:text="@string/platform"
             android:textAlignment="viewStart" />
 
         <TextView
@@ -44,7 +44,7 @@
             android:layout_marginStart="48dp"
             android:layout_marginTop="2dp"
             android:layout_toEndOf="@+id/text_view_platform"
-            android:text="Status"
+            android:text="@string/status"
             android:textAlignment="textStart" />
 
         <TextView
