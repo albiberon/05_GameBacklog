@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="give_a_reminder">Give a reminder</string>
+    <string name="title_activity_update">Create Game</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority:</string>
+    <string name="platform">Platform</string>
+    <string name="status">Status</string>
+
+    <string-array name="status_arrays">
+        <item>Want to Play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+
+</resources>
